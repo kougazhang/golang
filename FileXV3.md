@@ -160,7 +160,7 @@ cd ~/mywork/airflow
 
 ### 组件关系图
 
-![graphviz (2)](graphviz (2).png)
+![graphviz (2)](graphviz_2.png)
 
 ### 时序图
 
